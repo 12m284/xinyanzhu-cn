@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是广州康大职业技术许愿软件技术25级的学生，目前学习前后端语言代码，感兴趣研究ai和algc的ai伦理，哲学问题
+我是广州康大职业技术大学软件技术25级的学生，目前学习前后端语言代码，感兴趣研究ai和algc的ai伦理，哲学问题
 我的学习的领域包括：
 
 - c++，python语言，涉及一些前端代码开发如htmlcss等
@@ -37,7 +37,7 @@ redirect_from:
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 - Piano
@@ -50,7 +50,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 - Piano
@@ -63,7 +63,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 - Piano
