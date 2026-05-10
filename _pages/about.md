@@ -91,6 +91,8 @@ redirect_from:
 # 🏅 荣誉奖项
 
 - 2025年12月获得广东省飞镖比赛小组第4名，总排名第8名<img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="300">
+
+
 - 钢琴4级证书
 - 普通话2级乙等
 - 红十字会救护员证书
