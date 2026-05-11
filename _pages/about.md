@@ -78,9 +78,6 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - 2025年12月获得广东省飞镖比赛小组第4名，总排名第8名
-<div class='paper-box'><div class='paper-box-image'><img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="100">
-<div class='paper-box-text' markdown="1">
-
 - 钢琴4级证书
 - 普通话2级乙等
 - 红十字会救护员证书
