@@ -53,9 +53,32 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
+- Piano
+- reading
+- drawing
+- learning
+- playing games
+- listening to music
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+- Piano
+- reading
+- drawing
+- learning
+- playing games
+- listening to music
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
 
 ### 中文
 
+---
 
 - 钢琴
 - 阅读
@@ -67,11 +90,11 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-
-
-- 2025年12月获得广东省飞镖比赛小组第4名，总排名第8名
-<div class='paper-box'><div class='paper-box-image'><img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="100">
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+
+- 2025年12月获得广东省飞镖比赛小组第4名，总排名第8名<img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="300">
+
 
 - 钢琴4级证书
 - 普通话2级乙等
@@ -89,6 +112,6 @@ redirect_from:
 
 # 💻 目标计划
 
-- *做一个像素游戏
-- *发表一篇论文
-- *做一些自己想要做的事
+- \*做一个像素游戏
+- \*发表一篇论文
+- \*做一些自己想要做的事
