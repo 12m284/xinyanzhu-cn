@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是广州康大职业技术大学软件技术25级的学生，目前学习前后端语言代码，感兴趣研究ai和algc的ai伦理，哲学问题
+我是广州康大职业技术学院软件技术25级的学生，目前学习前后端语言代码，感兴趣研究ai和algc的ai伦理，哲学问题
 我的学习的领域包括：
 
 - c++，python语言，涉及一些前端代码开发如htmlcss等
@@ -33,30 +33,7 @@ redirect_from:
 
 # 📝 个人爱好
 
-### 英文
-
----
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
-- Piano
-- reading
-- drawing
-- learning
-- playing games
-- listening to music
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
-
 ### 中文
-
-
 - 钢琴
 - 阅读
 - 绘画
@@ -68,15 +45,19 @@ redirect_from:
 
 # 🏅 荣誉奖项
 
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
 - 2025年12月获得广东省飞镖比赛小组第4名，总排名第8名
-<div class='paper-box'><div class='paper-box-image'><img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="100">
-<div class='paper-box-text' markdown="1">
-
 - 钢琴4级证书
 - 普通话2级乙等
 - 红十字会救护员证书
-  <span class='anchor' id='-wdtc'></span>
+  </div>
+</div>
+
+<span class='anchor' id='-wdtc'></span>
 
 # 🏛️ 我的特长
 
@@ -85,7 +66,8 @@ redirect_from:
 - 好思善问
 - 会一些法语
 - 善于接受新鲜事物
-  <span class='anchor' id='-mbjh'></span>
+
+<span class='anchor' id='-mbjh'></span>
 
 # 💻 目标计划
 
