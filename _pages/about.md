@@ -56,10 +56,6 @@ redirect_from:
 
 ### 中文
 
----
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - 钢琴
 - 阅读
@@ -72,10 +68,6 @@ redirect_from:
 
 # 🏅 荣誉奖项
 
----
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - 2025年12月获得广东省飞镖比赛小组第4名，总排名第8名
 <div class='paper-box'><div class='paper-box-image'><img src="images/achievement-2025-dart.jpg" alt="飞镖奖项图片" width="100">
@@ -97,6 +89,6 @@ redirect_from:
 
 # 💻 目标计划
 
-- \*做一个像素游戏
-- \*发表一篇论文
-- \*做一些自己想要做的事
+- *做一个像素游戏
+- *发表一篇论文
+- *做一些自己想要做的事
