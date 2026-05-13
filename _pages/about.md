@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我是广州康大职业技术大学软件技术25级的学生，目前学习前后端语言代码，感兴趣研究ai和algc的ai伦理，哲学问题
-我的学习的领域包括：
+我的学习的领域包括：2502
 
 - c++，python语言，涉及一些前端代码开发如htmlcss等
 - 办公文档的使用
