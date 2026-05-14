@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "简介"
-    url: "/xinyanzhu-cn/#about-me"
+    url: "/xinyanzhu/#about-me"
 
   - title: "学历"
-    url: "/xinyanzhu-cn/#-xl"
+    url: "/xinyanzhu/#-xl"
 
   - title: "个人爱好"
-    url: "/xinyanzhu-cn/#-grah"
+    url: "/xinyanzhu/#-grah"
 
   - title: "荣誉奖项"
-    url: "/xinyanzhu-cn/#-ryjx"
+    url: "/xinyanzhu/#-ryjx"
 
   - title: "我的特长"
-    url: "/xinyanzhu-cn/#-wdtc"
+    url: "/xinyanzhu/#-wdtc"
 
   - title: "目标计划"
-    url: "/xinyanzhu-cn/#-mbjh"
+    url: "/xinyanzhu/#-mbjh"
